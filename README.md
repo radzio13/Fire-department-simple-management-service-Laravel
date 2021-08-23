@@ -1,4 +1,4 @@
-Simple Fire Department management service with Laravel framework and Blade template.
+Simple Fire Department management service using Laravel framework and Blade template.
 
 The project was made in a group of two.
 
